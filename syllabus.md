@@ -2,7 +2,7 @@
 
 Here are the syllabus files for all Four courses. Click on the respective course name to download or view the syllabus.
 
-## Available Syllabi
+## Available Syllabus
 
 1. [SSC Vocational General Syllabus](syllabus/1%20SSC_VOC_General%20Syllabus%202017%20Final.pdf)
 2. [Dakhil Vocational General Syllabus](syllabus/2%20Dakhil_Voc_Genaral%20Syllabus_2017.pdf)
@@ -11,6 +11,6 @@ Here are the syllabus files for all Four courses. Click on the respective course
 5. [General Electrical Works](syllabus/General%20Electrical%20Works.pdf)
 6. [General Electronics](syllabus/General%20Electronics.pdf)
 
----K
+---
 
 
